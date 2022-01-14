@@ -1,8 +1,8 @@
-<h4> Hey ¡tu! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+<!--- <h4> Hey ¡tu! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
 Soy [DGAB](https://github.com/DGAByt)
 
- ---
+ --- --->
  
 **Lenguajes & Herramientas:**
 
