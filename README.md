@@ -35,6 +35,6 @@ Soy [DGAB](https://github.com/DGAByt)
 
 <div align="right">
   
-![Contador](https://views.whatilearened.today/views/github/ProdRyan/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Gracias%20por%20visitarme%20Negro-!-1EAEDB.svg)](https://github.com/ProdRyan/)
+![Contador](https://views.whatilearened.today/views/github/DGABzd/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Gracias-!-1EAEDB.svg)](https://github.com/ProdRyan/)
 
 </div>
