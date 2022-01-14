@@ -29,7 +29,7 @@ Soy [DGAB](https://github.com/DGAByt)
  ---
    
   <p align="center">
-    © Prod Ryan 2021 - Production by Prod Ryan [ Netting & Dave ]
+    © DGAB 2021
   </p>
 </p>
 
