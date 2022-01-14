@@ -21,8 +21,8 @@ Soy [DGAB](https://github.com/DGAByt)
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=DGAByt&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGAByt&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+  <img src="https://github-readme-stats.vercel.app/api?username=DGABzd&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGABzd&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
 
 </p>
 
