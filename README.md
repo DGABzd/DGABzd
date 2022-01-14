@@ -1,7 +1,6 @@
 <h4> Hey ¡tu! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-Soy [Ryan](https://github.com/ProdRyan) pero soy mas conocido como Dave, tengo ya mas 4 año de Experiencia como Programador, comenze con Raptor Portable 😔, actualmente ya conozco muchos Lenguajes pero me he enfocado en algunos.
-Estoy aprendiendo Pentesting 🎩 practico en HTB & THM 🙏.
+Soy [DGAB](https://github.com/DGAByt)
 
  ---
  
@@ -22,8 +21,8 @@ Estoy aprendiendo Pentesting 🎩 practico en HTB & THM 🙏.
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ProdRyan&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProdRyan&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+  <img src="https://github-readme-stats.vercel.app/api?username=DGAByt&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGAByt&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
 
 </p>
 
