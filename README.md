@@ -1,40 +1,30 @@
-<!--- <h4> Hey ¡tu! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+## Hi I'm DGAB <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Soy [DGAB](https://github.com/DGAByt)
+I'm DGAB a Developer. I Spend most of time coding projects.
 
- --- --->
- 
-**Lenguajes & Herramientas:**
+:mailbox: Reach me out!
 
-<p align="center">
+[![Twitter Badge](https://img.shields.io/badge/-@DGABzd-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DGABzd)](https://twitter.com/Ipenywis)
 
-  <div align="center">
-  
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<!-- TODO: Add last video link -->
 
-  </div>
-  </p>
+- 🔭 I’m currently working at Discord Bots
+- ⚡ I like to play osu and counter strike.
 
- ---
- 
-**Github:**
+#### Top Technologies
 
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=DGABzd&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGABzd&count_private=true&theme=dracula&line_height=10">
+<!-- TODO: Make technologies links takes you to repositories -->
 
-</p>
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Html5 Badge](https://img.shields.io/badge/-HTML5-F16529?style=for-the-badge&labelColor=black&logo=html5&logoColor=F16529)](#) [![Css3 Badge](https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=2965f1)](#)
 
- ---
-   
-  <p align="center">
-    © DGAB 2021
-  </p>
-</p>
 
-<div align="right">
-  
-![Contador](https://views.whatilearened.today/views/github/DGABzd/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Gracias-!-1EAEDB.svg)](https://github.com/DGABzd/)
+#### Github Stats
 
-</div>
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=DGABzd&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGABzd&layout=compact&count_private=true&theme=tokyonight)
+
+
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=DGABzd)
