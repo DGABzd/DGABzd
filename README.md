@@ -6,7 +6,7 @@ I'm DGAB a Developer. I Spend most of time coding projects.
 
 [![Twitter Badge](https://img.shields.io/badge/-@DGABzd-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DGABzd)](https://twitter.com/DGABzd) [![Mail Badge](https://img.shields.io/badge/-diegoaybar2021@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:diegoaybar2021@gmail.com)
 
-- 🔭 I’m currently working at Discord Bots
+- 🔭 I’m currently working with javascript and node.js
 - ⚡ I like to play osu and counter strike.
 - 🍰 My native language is Spanish but I also know English.
 
