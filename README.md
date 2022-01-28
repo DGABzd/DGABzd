@@ -21,7 +21,7 @@ I'm DGAB a Developer. I Spend most of time coding projects.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGABzd&layout=compact&count_private=true&theme=tokyonight)
 
 
-#### Profile Visits 
+#### 👍 Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DGABzd)
 
