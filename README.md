@@ -23,6 +23,7 @@ I'm DGAB a Developer. I Spend most of time coding projects.
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=DGABzd&count_private=true&theme=tokyonight&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGABzd&layout=compact&count_private=true&theme=tokyonight)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=DGABzd&column=3&margin-w=15&margin-h=15&theme=tokyonight)
 
 
 #### Profile Visits 
