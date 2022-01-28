@@ -8,6 +8,7 @@ I'm DGAB a Developer. I Spend most of time coding projects.
 
 - 🔭 I’m currently working at Discord Bots
 - ⚡ I like to play osu and counter strike.
+- 🍰 My native language is Spanish but I also know English.
 
 
 #### 😎 Top Technologies
