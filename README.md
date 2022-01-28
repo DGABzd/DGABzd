@@ -4,7 +4,7 @@ I'm DGAB a Developer. I Spend most of time coding projects.
 
 📫 Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@DGABzd-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DGABzd)](https://twitter.com/DGABzd)
+[![Twitter Badge](https://img.shields.io/badge/-@DGABzd-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DGABzd)](https://twitter.com/DGABzd) [![Mail Badge](https://img.shields.io/badge/-diegoaybar2021@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:diegoaybar2021@gmail.com)
 
 - 🔭 I’m currently working at Discord Bots
 - ⚡ I like to play osu and counter strike.
