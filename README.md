@@ -20,11 +20,16 @@ I'm DGAB a Developer. I Spend most of time coding projects.
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=DGABzd&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=DGABzd&count_private=true&theme=tokyonight&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGABzd&layout=compact&count_private=true&theme=tokyonight)
 
 
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DGABzd)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=DGABzd
+
+
+#### 💖 Support Me
+
+[![paypal.me](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/DGABzd)
