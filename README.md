@@ -27,7 +27,7 @@ I'm DGAB a Developer. I Spend most of time coding projects.
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DGABzd
+![visitors](https://visitor-badge.glitch.me/badge?page_id=DGABzd)
 
 
 #### 💖 Support Me
