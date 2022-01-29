@@ -4,16 +4,16 @@ I'm DGAB a Developer. I Spend most of time coding projects.
 
 📫 Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@DGABzd-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DGABzd)](https://twitter.com/DGABzd) [![Mail Badge](https://img.shields.io/badge/-diegoaybar2021@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:diegoaybar2021@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@DGABzd-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DGABzd)](https://twitter.com/DGABzd) [![Discord Badge](https://img.shields.io/badge/-DGAV_0001-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=white&link=https://discordapp.com/users/936422224427089940)](https://discordapp.com/users/936422224427089940) [![Mail Badge](https://img.shields.io/badge/-diegoaybar2021@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:diegoaybar2021@gmail.com)
 
 - 🔭 I’m currently working with javascript and node.js
-- ⚡ I like to play osu and counter strike.
+- ⚡ I like to play osu! and counter-strike.
 - 🍰 My native language is Spanish but I also know English.
 
 
-#### 😎 Top Technologies
+#### 😎 Top Technologies and Software
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Html5 Badge](https://img.shields.io/badge/-HTML5-F16529?style=for-the-badge&labelColor=black&logo=html5&logoColor=F16529)](#) [![Css3 Badge](https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=2965f1)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![VisualStudio Badge](https://img.shields.io/badge/-Visual_Studio_Code-0078d7?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=0078d7)](#) [![DigitalOcean Badge](https://img.shields.io/badge/-Digital_Ocean-008bcf?style=for-the-badge&labelColor=black&logo=digitalocean&logoColor=008bcf)](#) 
 
 
 #### 📈 Github Stats
