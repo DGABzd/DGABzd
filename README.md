@@ -7,7 +7,6 @@ I'm DGAB a Developer. I Spend most of time coding projects.
 [![Twitter Badge](https://img.shields.io/badge/-@DGABzd-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DGABzd)](https://twitter.com/DGABzd) [![Discord Badge](https://img.shields.io/badge/-DGAV_0001-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=white&link=https://discordapp.com/users/936422224427089940)](https://discordapp.com/users/936422224427089940)
 
 - 🔭 I’m currently working with javascript and node.js
-- ⚡ I like to play osu! and csgo.
 - 🍰 My native language is Spanish but I also know English.
 
 
