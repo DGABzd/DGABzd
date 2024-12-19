@@ -1,4 +1,4 @@
-## Hi I'm DGAB <img src="assets/images/wave.gif" width="28px" alt="hi">
+## Hi I'm Diego <img src="assets/images/wave.gif" width="28px" alt="hi">
 
 I'm DGAB a Developer. I Spend most of time coding projects.
 
